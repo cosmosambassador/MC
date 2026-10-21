@@ -58,7 +58,7 @@ The Aletheon Project works alongside existing initiatives without replacing thei
 
 Aletheon exists to help make research more rigorous, accessible, traceable, and useful.
 
-Original records will be preserved. Scientific claims will require evidence. Experimental implementations will be identified as experimental until validated. Contributions will receive attribution, and consequential publication decisions will remain under human authority.
+Original records will be preserved. Scientific claims will require evidence. Experimental implementations will be identified as experimental until validated. Contributions will receive attribution, and consequential publication decisions will remain under human authority.https://tower11-hyperbolic-lab.tjmorris.chatgpt.site/
 
 **Founder:** TJ Morris  
 **Research Collaboration:** Aletheon / MC-6  
